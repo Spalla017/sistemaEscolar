@@ -109,7 +109,7 @@ O programa exibe uma demonstração completa e organizada:
 
 ```
 ╔════════════════════════════════════════════════╗
-║      SISTEMA ESCOLAR - DEMO COMPLETO          ║
+║      SISTEMA ESCOLAR - DEMO COMPLETO           ║
 ╚════════════════════════════════════════════════╝
 
 【1】 ASSOCIAÇÃO - Professor e Curso
@@ -118,7 +118,7 @@ O programa exibe uma demonstração completa e organizada:
 【4】 INTERFACE - IAvaliacao (Prova e Trabalho)
 
 ╔════════════════════════════════════════════════╗
-║              RESUMO DAS RELAÇÕES              ║
+║              RESUMO DAS RELAÇÕES               ║
 ╚════════════════════════════════════════════════╝
 ```
 
